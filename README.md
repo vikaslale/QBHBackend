@@ -1,6 +1,6 @@
 # QBHbackend
 
-  1) how to start project
+   how to start project
    -npm run start:dev
 
   package:-
